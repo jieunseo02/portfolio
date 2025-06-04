@@ -46,8 +46,8 @@
 
 | 파일 | 설명 |
 |------|------|
-| [`study_platform_schema.sql`](./schema/study_platform_schema.sql) | 전체 테이블 생성 SQL 스크립트 |
-| [`study_platform_schema.xlsx`](./schema/study_platform_schema_1.xlsx) | 컬럼 정의, 자료형, 설명 등을 포함한 초기 설계 문서 |
+| [`study_platform_schema.sql`](study-matching/study_platform_schema.sql) | 전체 테이블 생성 SQL 스크립트 |
+| [`study_platform_schema.xlsx`](study-matching/study_platform_schema_1.xlsx) | 컬럼 정의, 자료형, 설명 등을 포함한 초기 설계 문서 |
 
 ---
 
