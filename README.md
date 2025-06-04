@@ -4,7 +4,7 @@
 
 ## 📁 프로젝트 목록
 
-### 1. [Clinical Data 경진대회 - 비만과 뇌경색의 관계 분석](./clinical-data-competition)
+### 1. Clinical Data 경진대회 - 비만과 뇌경색의 관계 분석
 - 주제: 비만이 뇌경색 환자의 이상지질혈증에 미치는 영향
 - 역할: 데이터 전처리, 통계 요약, 분석 기획
 - 사용 도구: Python, Excel
