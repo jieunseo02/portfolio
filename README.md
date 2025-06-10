@@ -3,9 +3,12 @@
 안녕하세요! 데이터 분석과 AI 기술에 관심이 있는 학생 서지은입니다.  
 데이터 전처리, 기초 통계 분석, 머신러닝 모델 개발 및 데이터베이스 설계에 관심을 가지고 실습과 프로젝트를 진행하고 있습니다.
 
+はじめまして。データ分析とAI技術に興味を持ち、日々実践を通して学んでいる大学生のソ・ジウンと申します。
+データの前処理、基礎的な統計分析、機械学習モデルの開発、データベース設計などに関心を持ち、複数のプロジェクトに取り組んできました。
+
 ---
 
-## 프로젝트 목록
+## 프로젝트 목록 プロジェクト一覧
 
 ### 1. Clinical Data 경진대회 - 비만과 뇌경색의 관계 분석
 
@@ -16,6 +19,14 @@
 - **사용 기술**: Python, pandas, matplotlib, Excel
 - [프로젝트 상세 보기](./clinical-data-competition/README.md)
 
+### 1. Clinical Data 活用コンペ - 肥満と脳梗塞の関連性分析
+- **テーマ**: BMI（肥満度）が脳梗塞患者の脂質異常症に与える影響
+
+- **内容**:
+  - 医療データに基づいた相関分析・ロジスティック回帰分析
+  - データ前処理、統計値の要約、モデリング補助を担当
+- **使用技術**: Python, pandas, matplotlib, Excel
+- [project link](./clinical-data-competition/README.md)
 ---
 
 ### 2. 창업동아리 프로젝트 - 스터디원 매칭 플랫폼
@@ -27,6 +38,13 @@
 - **사용 도구**: dbdiagram.io, Supabase, MySQL
 - [프로젝트 상세 보기](./study-matching/README.md)
 
+### 2. 起業サークルプロジェクト - スタディマッチングプラットフォーム
+- **概要**: 使用しているプログラミングスタックをもとに、最適な学習パートナーを推薦・マッチングするWebサービスの企画
+- **担当業務**:
+  - Supabase を用いたデータベース構築
+  - ER図の設計およびSQLスキーマ作成
+- **使用ツール**: dbdiagram.io, Supabase, MySQL
+- [project link](./study-matching/README.md)
 ---
 
 ### 3. 머신러닝 회귀모델 실습 - Kaggle 기반 과제
@@ -42,6 +60,17 @@
 - **사용 기술**: Python, pandas, numpy, scikit-learn
 - [프로젝트 상세 보기](./ml-kaggle-regression/README.md)
 
+### 3. 機械学習回帰モデル実践 - Kaggle形式の課題
+- **概要**: 機械学習プログラミング授業で実施された、Kaggleスタイルの回帰モデル課題
+- **成果**:
+  - 線形回帰モデルを用いて予測タスクに挑戦
+  - RMSEスコア：1087（3位入賞）
+- **作業内容**:
+  - データ前処理
+  - 回帰モデル開発と評価
+  
+- **使用技術**: Python, pandas, numpy, scikit-learn
+- [project link](./ml-kaggle-regression/README.md)
 ---
 
 ## 사용 기술 스택
@@ -53,3 +82,13 @@
 | 데이터베이스 | MySQL, Supabase |
 | 버전 관리 | Git, GitHub |
 | 기타 | Excel, Markdown, dbdiagram.io |
+
+## 使用技術スタック
+
+| 分野        | 技術                            |
+| --------- | ----------------------------- |
+| プログラミング言語 | Python, R（基礎）, SQL            |
+| データ分析ツール  | pandas, matplotlib, numpy     |
+| データベース    | MySQL, Supabase               |
+| バージョン管理   | Git, GitHub                   |
+| その他       | Excel, Markdown, dbdiagram.io |
